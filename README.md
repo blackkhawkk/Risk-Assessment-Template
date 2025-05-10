@@ -1,6 +1,6 @@
 ### Hi there 👋, My Name is Tanmay
 
-I am working as a Senior Security Engineer at R360. I am a Leader of the OWASP Kolkata, India. 3 years of experiences in Cyber Security domain with Good knowledge in SIEM Technology, Log Analyst, Endpoint Security, Source Code Review with SAST and DAST(DevSecOps),Vulnerability and Patch Management, EDR, MDR, Cloud Security(AWS)Assessment, Incident Monitoring, Phishing Campaign, Security Policy and Process, Linux, Python, Penetration Testing in API, Modern Web,Mobile and Thick Client, WAF, OSINT, Threat Modeling, Internal & External Network Security, ASV tool and Infrastructure Security.
+I am working as a Product Security Engineer at R360. I am a Ex-Leader of the OWASP Kolkata, India. 7 years of experiences in Cyber Security domain with Good knowledge in SIEM Technology, Log Analyst, Endpoint Security, Source Code Review with SAST and DAST(DevSecOps),Vulnerability and Patch Management, EDR, MDR, Cloud Security(AWS)Assessment, Incident Monitoring, Phishing Campaign, Security Policy and Process, Linux, Python, Penetration Testing in API, Modern Web,Mobile and Thick Client, WAF, OSINT, Threat Modeling, Internal & External Network Security, ASV tool and Infrastructure Security.
 
 How to reach me: Twitter: @offensivehunt
 
